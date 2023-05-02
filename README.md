@@ -10,7 +10,6 @@
 
 ### 3. Setup .env File for connections
 
-
 ### 4. Run Backend
 
 ```shell
@@ -32,9 +31,9 @@ $ npm run dev
 ### 6. Seed Users and Products
 
 - Run this on browser: <http://localhost:5001/api/seed>
-- It returns admin email and password and 6 sample products
+- Devolve admin email e senha e exemplos de produtos
 
 ### 7. Admin Login
 
 - Run <http://localhost:5173/signin>
-- Enter admin email and password and click signin
+- Digite admin email e password para entrar na conta
