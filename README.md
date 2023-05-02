@@ -37,3 +37,7 @@ $ npm run dev
 
 - Run <http://localhost:5173/signin>
 - Digite admin email e password para entrar na conta
+
+### 8. Deploy do projeto
+
+- https://webstore-byz9.onrender.com/
